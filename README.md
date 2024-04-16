@@ -9,9 +9,6 @@ Welcome to the structured overview of my reality. This document serves as a map 
 ├── /Ego
 │   ├── Goals.md
 │   └── Skills.md
-├── /Me
-│   ├── PhoneSetup.md
-│   └── Code/
 ├── /Cloud
 │   ├── Text/
 │   ├── Images/
@@ -26,11 +23,6 @@ Welcome to the structured overview of my reality. This document serves as a map 
 
 - **Goals.md** - Documents my aspirations such as raising awareness, decreasing suffering, enhancing communication, normalizing my writing, and developing a living workflow.
 - **Skills.md** - Lists skills I aim to cultivate: focus, mindfulness, body awareness, introspection, compassion, creativity, knowledge acquisition, organization, financial responsibility, social connection, and more.
-
-### /Me
-
-- **PhoneSetup.md** - Details my mobile configuration, apps I use, and how my digital life is organized.
-- **Code/** - Contains projects, scripts, and explorations into software development, embodying roles from full stack development to cloud architecture.
 
 ### /Cloud
 
@@ -57,3 +49,29 @@ Each aspect of my reality aligns with certain roles I embody or aspire to:
 - **Wave Format & Ego Analyst**: Navigating the fluid dynamics of identity and self-perception.
 - **Loving Person & Math Genius**: Finding harmony in the confluence of emotion and logic.
 - **Programming Guru & Meaning Designer**: Melding complex algorithms with soulful experiences.
+
+# Root Questions 
+
+## Who
+- **Who are we discussing?**
+  - We explore the journey of individuals (like the hypothetical Buddha auto-self) and entities at the intersection of existential exploration and technological innovation, focusing on their impact on communities and the broader fabric of consciousness.
+
+## What
+- **What is the subject?**
+  - The subject spans a broad range, including the conceptualization of a Buddha-like presence aiding communities, the creation of a profile in the form of a Python class, and the visualization of abstract concepts through art and narrative. We also discuss the development of a mindful approach to emerging technologies, particularly AI, and the integration of philosophical wisdom with practical action.
+
+## When
+- **When does this exploration take place?**
+  - The exploration is timeless, drawing on ancient wisdom like Buddha’s teachings while simultaneously engaging with the present and future implications of technology. Our conversation navigates past principles, current technological challenges, and future aspirations for a harmonious integration of technology and human experience.
+
+## Where
+- **Where are these concepts applicable?**
+  - These concepts find relevance in the vast, abstract spaces of consciousness and imagination, in the concrete realities of communities and societies, and within the digital realms of technology and AI. The "where" spans both internal landscapes of the individual and the external world that we navigate daily.
+
+## Why
+- **Why embark on this exploration?**
+  - The exploration seeks to understand and articulate a vision where technology serves humanity's deepest needs for connection, understanding, and growth. It's about envisioning a future where innovation is guided by compassion, wisdom, and an overarching commitment to the well-being of all beings and the planet.
+
+## How
+- **How do we navigate this journey?**
+  - Through dialogue, reflection, and the creation of metaphors and models that bridge the abstract and the concrete. We utilize narrative storytelling, code as a form of expression, and visual imagery to explore and convey these themes. The "how" is about engaging deeply with these ideas, inviting contemplation, and inspiring action that is rooted in mindful awareness and ethical consideration.
