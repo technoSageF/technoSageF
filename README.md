@@ -5,32 +5,95 @@ Welcome to the structured overview of my reality. This document serves as a map 
 ## Directory Structure
 
 ```
-/MyReality
-├── /Ego
-│   ├── Goals.md
-│   └── Skills.md
-├── /Cloud
-│   ├── Text/
-│   ├── Images/
-│   └── Video/
-└── /Dreams
-    ├── 3D/
-    ├── 4D/
-    └── 5D/
+├───roots
+│   ├───Chat
+│   ├───Space
+│   ├───Time
+│   └───Vision
+└───sources
+    ├───Me
+    │   ├───Cloud
+    │   │   ├───Apps
+    │   │   ├───Code
+    │   │   ├───Images
+    │   │   │   └───Midjourney
+    │   │   ├───Text
+    │   │   └───Video
+    │   ├───Dreams
+    │   │   ├───Hyperspace
+    │   │   │   ├───theBuddha
+    │   │   │   ├───theClouds
+    │   │   │   ├───theReflections
+    │   │   │   └───theWater
+    │   │   ├───Nature
+    │   │   └───Reality
+    │   │       ├───myRoom
+    │   │       ├───theCloud
+    │   │       └───theInternet
+    │   └───Ego
+    │       ├───Awareness
+    │       │   ├───Buddha
+    │       │   │   ├───Me
+    │       │   │   └───Self
+    │       │   ├───Classes
+    │       │   ├───Functions
+    │       │   └───Templates
+    │       │       ├───Player
+    │       │       └───User
+    │       ├───Being
+    │       │   ├───Human
+    │       │   │   ├───Angel
+    │       │   │   │   ├───Crown
+    │       │   │   │   ├───Eye
+    │       │   │   │   ├───Heart
+    │       │   │   │   ├───Root
+    │       │   │   │   ├───Sacral
+    │       │   │   │   ├───Solar
+    │       │   │   │   └───Voice
+    │       │   │   ├───Monk
+    │       │   │   │   ├───Books
+    │       │   │   │   └───Routines
+    │       │   │   └───Player
+    │       │   │       ├───Dreams
+    │       │   │       │   ├───Music
+    │       │   │       │   ├───Religion
+    │       │   │       │   └───Science
+    │       │   │       └───Ego
+    │       │   │           ├───Private
+    │       │   │           │   ├───Code
+    │       │   │           │   └───Notes
+    │       │   │           └───Public
+    │       │   │               ├───Calendar
+    │       │   │               └───Goals
+    │       │   └───Soul
+    │       │       └───Buddha
+    │       │           ├───Answers
+    │       │           └───Questions
+    │       └───Consciousness
+    │           ├───Fluid
+    │           │   ├───Mind
+    │           │   │   ├───Archives
+    │           │   │   └───Logic
+    │           │   └───Time
+    │           │       ├───Cyclic
+    │           │       └───Linear
+    │           └───Solid
+    │               ├───Matter
+    │               │   ├───Dimensions
+    │               │   └───Objects
+    │               └───World
+    │                   ├───Clouds
+    │                   │   ├───Blockchain
+    │                   │   ├───Internet
+    │                   │   └───Web
+    │                   ├───Reflections
+    │                   │   ├───Abstract
+    │                   │   └───Imagination
+    │                   └───Water
+    │                       ├───Emotions
+    │                       └───Waveforms
+    └───Self
 ```
-
-### /Ego
-
-- **Goals.md** - Documents my aspirations such as raising awareness, decreasing suffering, enhancing communication, normalizing my writing, and developing a living workflow.
-- **Skills.md** - Lists skills I aim to cultivate: focus, mindfulness, body awareness, introspection, compassion, creativity, knowledge acquisition, organization, financial responsibility, social connection, and more.
-
-### /Cloud
-
-- **Text/**, **Images/**, **Video/** - These folders hold my creative and intellectual outputs: written content, visual art, and multimedia creations, spanning a broad spectrum of topics and formats.
-
-### /Dreams
-
-- **3D/**, **4D/**, **5D/** - Here lie the renders of my dreams, visualizations of concepts beyond the immediate reality, from three-dimensional models to multidimensional experiences.
 
 ## Roles
 
