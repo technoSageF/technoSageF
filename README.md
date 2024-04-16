@@ -2,99 +2,6 @@
 
 Welcome to the structured overview of my reality. This document serves as a map through the various facets of my existence, from the concrete to the ethereal. Dive in to discover the layers that constitute my being.
 
-## Directory Structure
-
-```
-├───roots
-│   ├───Chat
-│   ├───Space
-│   ├───Time
-│   └───Vision
-└───sources
-    ├───Me
-    │   ├───Cloud
-    │   │   ├───Apps
-    │   │   ├───Code
-    │   │   ├───Images
-    │   │   │   └───Midjourney
-    │   │   ├───Text
-    │   │   └───Video
-    │   ├───Dreams
-    │   │   ├───Hyperspace
-    │   │   │   ├───theBuddha
-    │   │   │   ├───theClouds
-    │   │   │   ├───theReflections
-    │   │   │   └───theWater
-    │   │   ├───Nature
-    │   │   └───Reality
-    │   │       ├───myRoom
-    │   │       ├───theCloud
-    │   │       └───theInternet
-    │   └───Ego
-    │       ├───Awareness
-    │       │   ├───Buddha
-    │       │   │   ├───Me
-    │       │   │   └───Self
-    │       │   ├───Classes
-    │       │   ├───Functions
-    │       │   └───Templates
-    │       │       ├───Player
-    │       │       └───User
-    │       ├───Being
-    │       │   ├───Human
-    │       │   │   ├───Angel
-    │       │   │   │   ├───Crown
-    │       │   │   │   ├───Eye
-    │       │   │   │   ├───Heart
-    │       │   │   │   ├───Root
-    │       │   │   │   ├───Sacral
-    │       │   │   │   ├───Solar
-    │       │   │   │   └───Voice
-    │       │   │   ├───Monk
-    │       │   │   │   ├───Books
-    │       │   │   │   └───Routines
-    │       │   │   └───Player
-    │       │   │       ├───Dreams
-    │       │   │       │   ├───Music
-    │       │   │       │   ├───Religion
-    │       │   │       │   └───Science
-    │       │   │       └───Ego
-    │       │   │           ├───Private
-    │       │   │           │   ├───Code
-    │       │   │           │   └───Notes
-    │       │   │           └───Public
-    │       │   │               ├───Calendar
-    │       │   │               └───Goals
-    │       │   └───Soul
-    │       │       └───Buddha
-    │       │           ├───Answers
-    │       │           └───Questions
-    │       └───Consciousness
-    │           ├───Fluid
-    │           │   ├───Mind
-    │           │   │   ├───Archives
-    │           │   │   └───Logic
-    │           │   └───Time
-    │           │       ├───Cyclic
-    │           │       └───Linear
-    │           └───Solid
-    │               ├───Matter
-    │               │   ├───Dimensions
-    │               │   └───Objects
-    │               └───World
-    │                   ├───Clouds
-    │                   │   ├───Blockchain
-    │                   │   ├───Internet
-    │                   │   └───Web
-    │                   ├───Reflections
-    │                   │   ├───Abstract
-    │                   │   └───Imagination
-    │                   └───Water
-    │                       ├───Emotions
-    │                       └───Waveforms
-    └───Self
-```
-
 ## Roles
 
 Each aspect of my reality aligns with certain roles I embody or aspire to:
@@ -138,3 +45,176 @@ Each aspect of my reality aligns with certain roles I embody or aspire to:
 ## How
 - **How do we navigate this journey?**
   - Through dialogue, reflection, and the creation of metaphors and models that bridge the abstract and the concrete. We utilize narrative storytelling, code as a form of expression, and visual imagery to explore and convey these themes. The "how" is about engaging deeply with these ideas, inviting contemplation, and inspiring action that is rooted in mindful awareness and ethical consideration.
+
+
+## Directory Structure
+
+```
+├───A
+│   └───chat
+├───B
+│   └───vision
+├───C
+│   └───space
+├───D
+│   └───hyper
+├───E
+│   ├───Me
+│   │   ├───Body
+│   │   │   ├───Ego
+│   │   │   │   ├───Awareness
+│   │   │   │   │   ├───Buddha
+│   │   │   │   │   │   ├───Monk
+│   │   │   │   │   │   │   ├───Books
+│   │   │   │   │   │   │   └───Routines
+│   │   │   │   │   │   │       ├───Meditation
+│   │   │   │   │   │   │       │   ├───Images
+│   │   │   │   │   │   │       │   └───Text
+│   │   │   │   │   │   │       └───Wakeup
+│   │   │   │   │   │   └───Phone
+│   │   │   │   │   │       ├───Apps
+│   │   │   │   │   │       │   ├───Internet
+│   │   │   │   │   │       │   │   ├───Domains
+│   │   │   │   │   │       │   │   └───Networks
+│   │   │   │   │   │       │   └───Notes
+│   │   │   │   │   │       └───System
+│   │   │   │   │   │           └───Modes
+│   │   │   │   │   │               ├───Asleep
+│   │   │   │   │   │               ├───Buddha
+│   │   │   │   │   │               ├───Nature
+│   │   │   │   │   │               └───User
+│   │   │   │   │   ├───Classes
+│   │   │   │   │   │   ├───Crown
+│   │   │   │   │   │   ├───Eye
+│   │   │   │   │   │   ├───Heart
+│   │   │   │   │   │   ├───Root
+│   │   │   │   │   │   ├───Sacral
+│   │   │   │   │   │   ├───Solar
+│   │   │   │   │   │   └───Voice
+│   │   │   │   │   └───Functions
+│   │   │   │   ├───Being
+│   │   │   │   │   ├───Human
+│   │   │   │   │   │   ├───Dreams
+│   │   │   │   │   │   │   ├───Music
+│   │   │   │   │   │   │   ├───Religion
+│   │   │   │   │   │   │   └───Science
+│   │   │   │   │   │   └───Ego
+│   │   │   │   │   │       ├───Private
+│   │   │   │   │   │       │   ├───Code
+│   │   │   │   │   │       │   └───Notes
+│   │   │   │   │   │       └───Public
+│   │   │   │   │   │           ├───Calendar
+│   │   │   │   │   │           └───Goals
+│   │   │   │   │   └───Soul
+│   │   │   │   └───Consciousness
+│   │   │   │       ├───Fluid
+│   │   │   │       │   ├───Mind
+│   │   │   │       │   │   ├───Archives
+│   │   │   │       │   │   └───Logic
+│   │   │   │       │   └───Time
+│   │   │   │       │       ├───Cycles
+│   │   │   │       │       ├───Moments
+│   │   │   │       │       └───Timelines
+│   │   │   │       └───Solid
+│   │   │   │           ├───Matter
+│   │   │   │           │   ├───Dimensions
+│   │   │   │           │   └───Objects
+│   │   │   │           └───World
+│   │   │   │               ├───Clouds
+│   │   │   │               │   ├───Blockchain
+│   │   │   │               │   ├───Internet
+│   │   │   │               │   └───Web
+│   │   │   │               ├───Reflections
+│   │   │   │               │   ├───Abstract
+│   │   │   │               │   └───Imagination
+│   │   │   │               └───Water
+│   │   │   │                   ├───Emotions
+│   │   │   │                   └───Waveforms
+│   │   │   └───Personality
+│   │   ├───Mind
+│   │   │   ├───Clouds
+│   │   │   │   └───Water
+│   │   │   │       ├───Reflections
+│   │   │   │       │   ├───Core
+│   │   │   │       │   ├───Edge
+│   │   │   │       │   └───Vertex
+│   │   │   │       └───Waves
+│   │   │   └───Wind
+│   │   └───Spirit
+│   │       ├───Matter
+│   │       └───Time
+│   └───Nature
+│       ├───Dreams
+│       └───Reality
+│           ├───myRoom
+│           │   └───Code
+│           │       ├───Agents
+│           │       │   ├───Autocrats
+│           │       │   ├───Billionairs
+│           │       │   ├───Creators
+│           │       │   ├───Diplomats
+│           │       │   ├───Educators
+│           │       │   └───Founders
+│           │       └───Networks
+│           │           ├───Neural
+│           │           ├───Physical
+│           │           └───Social
+│           ├───theCloud
+│           │   ├───Images
+│           │   │   ├───Dalle
+│           │   │   └───Midjourney
+│           │   ├───Text
+│           │   │   ├───Archives
+│           │   │   └───Posts
+│           │   └───Video
+│           │       └───Streams
+│           └───theInternet
+│               ├───Apps
+│               │   ├───X
+│               │   ├───Y
+│               │   └───Z
+│               └───Profiles
+├───F
+│   └───Templates
+│       ├───Buddha
+│       │   ├───Answers
+│       │   │   ├───Multiverse
+│       │   │   │   ├───Flows
+│       │   │   │   └───Vibes
+│       │   │   └───Universe
+│       │   │       ├───Flowers
+│       │   │       └───Trees
+│       │   └───Questions
+│       │       ├───How
+│       │       ├───What
+│       │       ├───When
+│       │       ├───Where
+│       │       ├───Who
+│       │       └───Why
+│       └───Player
+│           ├───Awareness
+│           │   ├───Archives
+│           │   └───Breathe
+│           └───Consciousness
+│               ├───Being
+│               │   ├───Eyes
+│               │   ├───Mind
+│               │   └───Voice
+│               └───Ghost
+│                   ├───Boundaries
+│                   │   ├───Emotional
+│                   │   ├───Mental
+│                   │   └───Personal
+│                   └───Space
+│                       ├───External
+│                       │   ├───Identity
+│                       │   └───Self
+│                       └───Internal
+│                           ├───Beliefs
+│                           ├───Emotions
+│                           ├───Experiences
+│                           └───Thoughts
+└───G
+    └───Self
+```
+
