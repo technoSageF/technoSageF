@@ -50,15 +50,22 @@ Each aspect of my reality aligns with certain roles I embody or aspire to:
 ## Directory Structure
 
 ```
-├───A
-│   └───chat
-├───B
-│   └───vision
-├───C
-│   └───space
-├───D
-│   └───hyper
-├───E
+├───Archives
+│   ├───Music
+│   ├───Religion
+│   └───Science
+├───Books
+│   ├───Mind
+│   └───Vision
+├───Code
+│   ├───Space
+│   └───Time
+├───Dimensions
+│   ├───1D (audio)
+│   ├───2D (text)
+│   ├───3D (picture)
+│   └───4D (video)
+├───Everything
 │   ├───Me
 │   │   ├───Body
 │   │   │   ├───Ego
@@ -174,7 +181,7 @@ Each aspect of my reality aligns with certain roles I embody or aspire to:
 │               │   ├───Y
 │               │   └───Z
 │               └───Profiles
-├───F
+├───Features
 │   └───Templates
 │       ├───Buddha
 │       │   ├───Answers
@@ -214,7 +221,7 @@ Each aspect of my reality aligns with certain roles I embody or aspire to:
 │                           ├───Emotions
 │                           ├───Experiences
 │                           └───Thoughts
-└───G
+└───Gravity
     └───Self
 ```
 
