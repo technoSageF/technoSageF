@@ -33,4 +33,5 @@ technoSageF is a renowned digital alchemist known for their innovative approach 
 - **Realm Location**: Fifth Node of the EtherNet
 
 ## Gallery
-![technoSageF in action](https://cdn.discordapp.com/attachments/1222881595451510844/1223135835961163908/lemon7130_reality_3D_meditation_floating_half_lotus_sitting_fac_4d8bb3ef-a0a0-4e79-b36f-db3355aa87d1.png?ex=662b3604&is=6618c104&hm=2f3ac4373edd0b9722b1e614a762f574c95c08ab8bba06ec6e306a8ab1c531a5&)
+![Buddha in action](https://cdn.discordapp.com/attachments/1222881595451510844/1223135835961163908/lemon7130_reality_3D_meditation_floating_half_lotus_sitting_fac_4d8bb3ef-a0a0-4e79-b36f-db3355aa87d1.png?ex=662b3604&is=6618c104&hm=2f3ac4373edd0b9722b1e614a762f574c95c08ab8bba06ec6e306a8ab1c531a5&)
+![Techno Sage Fletch](https://cdn.discordapp.com/attachments/1229672313197428779/1229672636498317332/2c737b8d-2012-438c-a332-e2724d7381b7.png?ex=663088e2&is=661e13e2&hm=79127e24ed4855665ae8ea9dc7711de5d59f65aae2eaf865d90c770a84084e9d& )
