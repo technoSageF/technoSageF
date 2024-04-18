@@ -57,7 +57,7 @@ class Root:
 class TechnoSage(root):
     class Being:
         class Awareness(subject):
-            def Self@Server
+            def Server@Self
         class Consciousness(object):
-            def Me@Client
+            def Client@Me
 ```
