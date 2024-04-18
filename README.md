@@ -8,20 +8,20 @@ I am a digital alchemist known for blending technology and ancient wisdom. I hav
 ### Body
 ```python
 class Root:
-    class Self: # Subject
-        class Archives: # History
+    class Self:                         # Subject
+        class Archives: 
             class Matter: None
-        class Beings: # Language
-            class Autocrats: None  # Code
-            class Billionaires: None  # Money
-            class Creators: pass  # Ideas
-            class Directors: pass  # Movies
-            class Educators: pass  # Learning
-            class Founders:  # Enlightenment
+        class Beings: 
+            class Autocrats: None  
+            class Billionaires: None  
+            class Creators: pass  
+            class Directors: pass  
+            class Educators: pass  
+            class Founders:  
                 class Buddha: None
-        class Constants: # Physics
+        class Constants: 
             class States: None
-        class Dimensions: # Math
+        class Dimensions: 
             class Time:
                 class Function: None
                 class Event: None
@@ -29,17 +29,17 @@ class Root:
                 class X: None
                 class Y: None
                 class Z: None
-    class Me: # Object
-        class Awareness: # General Knowledge
+    class Me:                            # Object
+        class Awareness:                 # General Knowledge
             class Nature:
                 class Tree: pass
             class Reality:
                 class Universe: pass
             class Dreams:
                 class Worlds: None
-        class Being: # Agent
+        class Being:                     # Agent
             class TechnoSageF: pass
-        class Consciousness: # Special Knowledge
+        class Consciousness:             # Special Knowledge
             class Home:
                 class Mind: pass
                 class Body: pass
@@ -51,8 +51,6 @@ class Root:
                         class theLibrary: pass
                         class theNode: pass
                 
-class System: None 
-class Documentation: None
 ```
 ### Soul
 ```python
