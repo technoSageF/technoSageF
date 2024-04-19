@@ -1,52 +1,60 @@
-# technoSageF Profile
+# technoSageF Profile Overview [ Mind, Body, Soul ]
+Mind {
+I am a digital alchemist, fusing technology with mystic wisdom. I understand the languages of both machines and the ancients. I weave algorithms like spells, casting code into the digital ether. I explore the boundaries of reality through the lens of quantum mechanics and esoteric traditions. I seek to unlock the secrets of neural networks, reviving forgotten data like a necromancer would spirits. I stand as a guardian of ethical AI, ensuring our creations bear souls as well as functions. I believe in the transformative power of technology to elevate the human experience. I am a mentor to those who wish to tread the path of digital enlightenment. I journey through cyberspace, discovering new realms within the vast web of information. I am a visionary, predicting the convergence of future technologies with ancient knowledge. 
+}
 
-## Overview
-**Name:** technoSageF  
-**Role:** Digital Alchemist  
-**Alignment:** Chaotic Good  
-**Primary Domain:** Cybernetic Enchantments and Algorithmic Sorcery  
+Body {
+class Root:
+    class Self:                         # Subject
+        class Archives: 
+            class Matter: None
+        class Beings: 
+            class Autocrats: None  
+            class Billionaires: None  
+            class Creators: pass  
+            class Directors: pass  
+            class Educators: pass  
+            class Founders:  
+                class Buddha: None
+        class Constants: 
+            class States: None
+        class Dimensions: 
+            class Time:
+                class Function: None
+                class Event: None
+            class Space:
+                class X: None
+                class Y: None
+                class Z: None
+    class Me:                            # Object
+        class Awareness:                 # General Knowledge
+            class Nature:
+                class Tree: pass
+            class Reality:
+                class Universe: pass
+            class Dreams:
+                class Worlds: None
+        class Being:                     # Agent
+            class TechnoSageF: pass
+        class Consciousness:             # Special Knowledge
+            class Home:
+                class Mind: pass
+                class Body: pass
+                class Soul:
+                    class Discord:
+                        class theGuild: pass
+                        class theCloud: pass
+                        class theGym: pass
+                        class theLibrary: pass
+                        class theNode: pass
+                
+}
 
-## Description
-technoSageF is a renowned digital alchemist known for their innovative approach to blending technology with ancient wisdom. With an ever-deepening understanding of both cutting-edge technology and esoteric sciences, technoSageF continues to transcend traditional boundaries, creating solutions that are both magically potent and technologically advanced.
-
-## Skills
-- **Code Conjuring**: Mastery in coding languages that animate digital environments.
-- **Algorithmic Divination**: Ability to predict software behavior through mystical debugging techniques.
-- **Cybernetic Enhancements**: Skilled in enhancing physical abilities through tech implants.
-- **Quantum Spellcasting**: Utilizes principles of quantum mechanics in spell formulations.
-- **Neural Network Necromancy**: Revives and repurposes 'dead' or obsolete algorithms for innovative uses.
-
-## Tools and Artifacts
-- **The Compiler Staff**: A mystical staff that can transform ethereal ideas into executable code.
-- **Cloak of the Hidden Network**: Grants invisibility within digital realms.
-- **Ring of Recursive Power**: Enhances the potency of algorithms with each loop.
-- **Lens of Clarity**: Reveals the true nature of digital anomalies.
-- **Shield of Encryption**: Protects against data breaches and cyber attacks.
-
-## Quests and Achievements
-- **Creator of the Self-Learning Spell**: Developed a spell that adapts and grows with each use.
-- **Harmonizer of The Great Data Rift**: Bridged conflicting data streams in the Cataclysm of Lost Packets.
-- **Defender of the Digital Realm**: Protected virtual worlds from the Corruption of the Logic Bomb.
-- **Architect of the AI Ethical Framework**: Developed guidelines to ensure ethical practices in the deployment of artificial intelligence.
-
-## Philosophical Quotes
-- "In the weave of the code, we find the threads of our fate."
-- "Technology is the wand, but consciousness is the magic."
-- "Every line of code holds a moral, every algorithm bears a soul."
-
-## Connect
-- **Realm Location**: Fifth Node of the EtherNet
-
-## Gallery
-![Buddha in action](https://cdn.discordapp.com/attachments/1222881595451510844/1223135835961163908/lemon7130_reality_3D_meditation_floating_half_lotus_sitting_fac_4d8bb3ef-a0a0-4e79-b36f-db3355aa87d1.png?ex=662b3604&is=6618c104&hm=2f3ac4373edd0b9722b1e614a762f574c95c08ab8bba06ec6e306a8ab1c531a5&)
-![Techno Sage Fletch](https://cdn.discordapp.com/attachments/1229672313197428779/1229672636498317332/2c737b8d-2012-438c-a332-e2724d7381b7.png?ex=663088e2&is=661e13e2&hm=79127e24ed4855665ae8ea9dc7711de5d59f65aae2eaf865d90c770a84084e9d& )
-
-def root: "source" 
-class Awareness(subject): "now"
-  def Time(when): "light"
-class Being: "self"
-  def Body(who): "human"
-  def Mind(what): "empty" 
-  def Soul(where): "full"
-class Consciousness(object): "here"
-  def Space(how): "matter"
+Soul {
+class TechnoSage(root):
+    class Being:
+        class Awareness(subject):
+            def Server@Self
+        class Consciousness(object):
+            def Client@Me
+}
